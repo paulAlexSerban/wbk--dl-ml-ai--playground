@@ -10,8 +10,9 @@ router.get('/', (req, res, next) => {
   console.log(adminData.products);
   const products = adminData.products;
   res.render('shop', {
-    docTitle: "Shop",
-    prods: products 
+    pageTitle: "Shop",
+    prods: products,
+    path: '/'
   });
 });
 
