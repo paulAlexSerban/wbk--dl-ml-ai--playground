@@ -15,3 +15,12 @@ freeze_deps:
 	@echo "Freezing dependencies..."
 	@pip freeze > requirements.txt
 	@echo "Dependencies frozen."
+
+install_venv_as_kernel:
+	@echo "Installing virtual environment as Jupyter kernel..."
+	@python -m ipykernel install --user --name=.venv --display-name "Python (.venv)"
+	@echo "Virtual environment installed as Jupyter kernel."
+
+start_jupyter:
+	@echo "Starting Jupyter Notebook..."
+	@jupyter notebook
