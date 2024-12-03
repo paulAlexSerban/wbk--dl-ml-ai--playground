@@ -4,7 +4,7 @@ setup_venv:
 
 activate_venv:
 	@echo "Activating virtual environment..."
-	@source .venv/bin/activate
+	@bash -c "source .venv/bin/activate"
 
 install_deps:
 	@echo "Installing dependencies..."
@@ -30,3 +30,7 @@ install_venv_as_kernel:
 start_jupyter:
 	@echo "Starting Jupyter Notebook..."
 	@jupyter notebook
+
+start_labelImg:
+	@echo "Starting LabelImg..."
+	@labelImg

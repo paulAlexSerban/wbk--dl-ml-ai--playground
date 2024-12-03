@@ -1,0 +1,29 @@
+train: "./data_images/train"
+# val - validation images
+val: "./data_images/test"
+# number of classes
+nc: 20
+# class names
+names:
+  [
+    "diningtable",
+    "chair",
+    "horse",
+    "person",
+    "tvmonitor",
+    "bird",
+    "cow",
+    "dog",
+    "bottle",
+    "pottedplant",
+    "aeroplane",
+    "car",
+    "cat",
+    "sheep",
+    "bicycle",
+    "sofa",
+    "boat",
+    "train",
+    "motorbike",
+    "bus",
+  ]
