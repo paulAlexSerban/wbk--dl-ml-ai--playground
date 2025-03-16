@@ -106,3 +106,7 @@ dist
 .ipynb_checkpoints
 data_images
 yolov5
+
+__pycache__
+.venv
+dist
