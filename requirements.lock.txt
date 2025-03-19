@@ -36,6 +36,7 @@ filelock==3.18.0
 fonttools==4.56.0
 fqdn==1.5.1
 fsspec==2025.3.0
+gensim==4.3.3
 h11==0.14.0
 httpcore==1.0.7
 httpx==0.28.1
@@ -89,7 +90,7 @@ networkx==3.4.2
 nltk==3.9.1
 notebook==7.3.3
 notebook_shim==0.2.4
-numpy==2.2.4
+numpy==1.26.4
 overrides==7.7.0
 packaging==24.2
 pandas==2.2.3
@@ -126,7 +127,7 @@ rich==13.9.4
 rpds-py==0.23.1
 safetensors==0.5.3
 scikit-learn==1.6.1
-scipy==1.15.2
+scipy==1.13.1
 Send2Trash==1.8.3
 setuptools==76.1.0
 shellingham==1.5.4

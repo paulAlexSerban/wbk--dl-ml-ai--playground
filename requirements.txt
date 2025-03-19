@@ -115,3 +115,4 @@ transformers
 torch
 torchvision
 torchaudio
+gensim

@@ -9,6 +9,7 @@ activate_venv:
 install_deps:
 	@echo "Installing dependencies..."
 	@pip install -r requirements.txt
+	@python machine-learning/nltk_deps.py 		
 	@echo "Dependencies installed."
 
 freeze_deps:
@@ -19,6 +20,7 @@ freeze_deps:
 install_ci_deps:
 	@echo "Installing dependencies..."
 	@pip install -r requirements.lock.txt
+	@python machine-learning/nltk_deps.py 
 	@echo "Dependencies installed."
 
 
