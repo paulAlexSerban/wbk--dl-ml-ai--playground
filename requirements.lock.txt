@@ -128,6 +128,7 @@ rpds-py==0.23.1
 safetensors==0.5.3
 scikit-learn==1.6.1
 scipy==1.13.1
+seaborn==0.13.2
 Send2Trash==1.8.3
 setuptools==76.1.0
 shellingham==1.5.4
