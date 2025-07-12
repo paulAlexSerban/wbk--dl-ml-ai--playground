@@ -1,0 +1,1 @@
+coursework project from: udemy - "Building Autonomous AI Agents From Scratch with Python"

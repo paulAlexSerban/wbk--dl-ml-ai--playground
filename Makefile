@@ -1,29 +1,15 @@
+##### Virtual Environment Setup #####
+
 setup_venv:
 	@echo "Setting up virtual environment..."
 	@python3.12 -m venv .venv
 
-activate_venv:
-	@echo "Activating virtual environment..."
-	. .venv/bin/activate
+#### Step needs to be run manually - not part of the Makefile
+# activate_venv:
+# 	@echo "Activating virtual environment..."
+# 	. .venv/bin/activate
 
-freeze_deps:
-	@echo "Freezing dependencies..."
-	@pip freeze > requirements.lock.txt
-	@echo "Dependencies frozen."
-
-install_deps:
-	@echo "Installing dependencies..."
-	@pip install -r requirements.txt
-	@python machine-learning/nltk_deps.py 		
-	@echo "Dependencies installed."
-	@make freeze_deps
-
-install_ci_deps:
-	@echo "Installing dependencies..."
-	@pip install -r requirements.lock.txt
-	@python machine-learning/nltk_deps.py 
-	@echo "Dependencies installed."
-
+##### Jupyter Notebook Setup #####
 install_jupiter_n_ipykernel:
 	@echo "Installing Jupyter Notebook..."
 	@pip install jupyter
