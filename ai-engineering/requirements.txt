@@ -6,3 +6,5 @@ langchain_openai
 faiss-cpu
 transformers
 torch
+matplotlib
+seaborn
