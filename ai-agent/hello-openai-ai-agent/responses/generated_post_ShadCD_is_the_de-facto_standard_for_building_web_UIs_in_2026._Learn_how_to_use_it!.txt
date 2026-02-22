@@ -1,0 +1,5 @@
+ShadCD has become the de-facto standard for building web UIs in 2026.
+
+If you’re not using it yet, you’re missing out on a faster, more flexible way to craft beautiful interfaces.
+
+Learn how to harness its power and stay ahead in the web dev game!
