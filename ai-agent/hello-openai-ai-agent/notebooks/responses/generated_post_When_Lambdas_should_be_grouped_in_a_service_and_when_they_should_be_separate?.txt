@@ -1,0 +1,9 @@
+When should you group Lambdas in a service, and when should they stay separate?
+
+It’s all about scale, reuse, and complexity.
+
+If Lambdas share a common purpose and need to interact closely, grouping them can simplify deployment and maintenance.
+
+But if they handle distinct tasks, separate Lambdas offer better scalability, security, and easier debugging.
+
+Find the right balance — your architecture depends on it.

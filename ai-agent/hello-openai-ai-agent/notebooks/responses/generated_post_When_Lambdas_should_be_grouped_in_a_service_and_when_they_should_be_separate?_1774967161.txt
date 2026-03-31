@@ -1,0 +1,6 @@
+When should you group Lambdas into a single service?  
+When they share state, purpose, or resources — it simplifies deployment and keeps things coherent.
+
+But if each Lambda has a distinct job, high independence, or different scales — keep them separate.
+
+The key is balancing cohesion with flexibility. Know your workflows, and choose wisely.
