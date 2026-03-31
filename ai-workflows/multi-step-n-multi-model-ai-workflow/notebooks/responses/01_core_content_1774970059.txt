@@ -1,0 +1,45 @@
+Welcome!
+
+I'm Paul, a Software Engineer specializing in AI Engineering, Full-Stack Development, and Software Architecture. I architect and build AI-driven platforms, scalable microservices, and enterprise-level applications using modern tech stacks including Python, MERN, AWS, Docker, and Kubernetes. My passion lies in leveraging AI and cutting-edge technology to create innovative solutions that deliver measurable business impact and significantly reduce time-to-market.
+
+My Projects
+
+Here is a short list of projects I worked on in order to sharpen my skills.
+
+- React.js Playground
+  Development setup for POCs built with React.js, JavaScript, TypeScript, Storybook, Chromatic, Jest, and Netlify.
+  Playground and development setup for POCs, feasibility studies, and experiments to practice, learn, and test new technologies, libraries, and tools along with their integration and configuration in a React.js environment with TypeScript. It is a gallery showcasing my transition from TypeScript to JavaScript as I dive deeper into React.js and its ecosystem.
+
+- Personal Portfolio (V1)
+  Static website showcasing personal projects, coursework, and software engineering skills.
+  The Personal Portfolio V1 is a static website designed to showcase personal projects, coursework, and software engineering skills. It aims to demonstrate foundational web development capabilities while establishing an online presence. The architecture prioritizes simplicity, performance, and maintainability, aligning with the project's goals and freeCodeCamp certification requirements.
+
+More About Me
+
+I am a Software Engineer with specialized expertise in AI Engineering, Full-Stack Development, and Software Architecture. My experience spans the entire software development lifecycle, from ideation and architectural planning to system design, implementation, and deployment of enterprise-level solutions.
+
+With proven hands-on experience in AI workflows, Python, the MERN stack (MongoDB, Express.js, React.js, Node.js, Next.js), and AWS cloud services, I excel at architecting and building scalable, AI-driven platforms and microservices architectures. I have successfully led development teams in creating innovative solutions that have reduced time-to-market by up to and operational overhead.
+
+My technical expertise encompasses AI Engineering, full-stack development, microservices and micro-frontend architectures, and modern DevOps practices. I am proficient with containerization (Docker, Kubernetes), infrastructure as code (Terraform), and building robust CI/CD pipelines using GitHub Actions, BuildKite and Jenkins.
+
+Beyond coding, I am an experienced team leader and technical coach, adept at employing Agile methodologies and Scrum practices to foster collaborative, high-performing team environments. My track record includes multiple hackathon wins as team lead and solution architect, consistently delivering working products under extreme time constraints.
+
+I am a continuous learner with a strong focus on system thinking and problem-solving, committed to staying at the forefront of AI engineering, software architecture, and emerging technologies. My goal is to continue evolving as a technical leader while architecting innovative, scalable solutions that drive business value. 
+
+My Skills
+
+Technical 
+
+- AI Engineering: AI Workflows, AI Agent Architectures, Prompt Engineering, LLM Integration, AI Solution Design
+- Programming Languages: Python, TypeScript, JavaScript
+- Full-Stack Development: MERN, MongoDB, Express.js, React.js, Node.js, Next.js, FastAPI, Flask, Django
+- Front-end: React.js, Redux, Bootstrap, Material UI, Tailwind, Webpack, Vite, Scss/Sass, Babel
+- Software Architecture & Design: Software Architecture, System Design, Microservices, Micro-frontends, Design Systems, Component Libraries, Monorepo, Architectural Decision Record (ADR), Architectural Significant Requirement (ASR)
+- Testing & Quality: TDD, VRT, Jest, Storybook, Web Performance, Web Accessibility (a11y)
+- Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, Infrastructure as Code
+- CI/CD & Tools: GitHub Actions, Jenkins, Git, GitOps, Git-flow, Linux, Bash/Shell, npm, esLint
+- Development Practices: Agile, Scrum, Spec-Driven Development, REST API, Internationalization (i18n)
+
+Soft Skills 
+
+- Leadership, Team Coaching, Effective Communication, Systems Thinking, Problem-solving, Analytical Thinking, Time Management, Project Management, Teamwork, Cross-functional Collaboration, Customer Service, Flexibility.

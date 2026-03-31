@@ -1,0 +1,21 @@
+- **Introduction:**
+  - Paul is a Software Engineer with expertise in AI Engineering, Full-Stack Development, and Software Architecture.
+  - Specializes in creating AI-driven platforms, scalable microservices, and enterprise applications using Python, MERN stack, AWS, Docker, and Kubernetes.
+  - Passionate about leveraging AI and advanced technologies to deliver impactful business solutions.
+
+- **Projects:**
+  - **React.js Playground:** A development setup for POCs using React.js, JavaScript, TypeScript, and various tools for practice and integration in a React environment.
+  - **Personal Portfolio V1:** A static website to showcase personal projects and skills, emphasizing simplicity and performance.
+
+- **Professional Expertise:**
+  - Experience spans the entire software development lifecycle, focusing on AI workflows, system design, and deployment.
+  - Proven skills in developing scalable platforms, reducing time-to-market, and operational overhead.
+  - Proficient in containerization, infrastructure as code, and building CI/CD pipelines.
+
+- **Technical Skills:**
+  - AI Engineering, Programming (Python, TypeScript, JavaScript), Full-Stack Development (MERN, FastAPI, Flask, Django), Front-end Development (React.js, Redux), Software Architecture & Design.
+  - Expertise in Cloud & DevOps (AWS, Docker, Kubernetes), CI/CD practices, and various development tools and practices.
+
+- **Soft Skills:**
+  - Leadership and team coaching, effective communication, problem-solving, systems thinking, and project management.
+  - Strong focus on continuous learning and staying at the forefront of technological advancements.

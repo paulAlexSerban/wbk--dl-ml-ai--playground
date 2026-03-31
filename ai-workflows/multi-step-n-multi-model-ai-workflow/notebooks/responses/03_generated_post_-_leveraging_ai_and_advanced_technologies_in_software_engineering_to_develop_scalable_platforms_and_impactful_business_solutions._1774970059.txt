@@ -1,0 +1,15 @@
+Meet Paul: an expert at turning ideas into AI-driven realities.
+
+With a track record in full-stack development and software architecture, he crafts scalable microservices and enterprise applications that deliver real impact. 
+
+His projects include:
+
+- A React.js Playground mastering POCs and integrations.
+
+- A sleek Personal Portfolio showcasing skills and creativity.
+
+What sets Paul apart? 
+
+Expertise in AI workflows, cloud platforms like AWS, and CI/CD strategies. 
+
+He doesn’t just code; he leads, communicates, and constantly
